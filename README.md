@@ -23,16 +23,13 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 - data processing/cleaning
 - writeup/reporting/presentation
 
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/tengyneo/project1/tree/main/data) within this repo. 
-
-## Featured Notebooks/Analysis/Deliverables
+## Featured Notebooks/Slides/Data
 * [Jupyter Notebook Report](https://github.com/tengyneo/project1/tree/main/notebook)
+* [Raw Data](https://github.com/tengyneo/project1/tree/main/data)
 
 ## Contact
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
 |[Neo Teng Yong](https://github.com/tengyneo)| @Teng Yong        |
+|[Kathleen]| @kathleen        |
