@@ -1,0 +1,63 @@
+Title: Hotel Statistics
+Frequency: Monthly
+Start Period: 2008 Jan
+End Period: 2023 Nov
+Adjustment Type: N.A.
+
+Data Series
+Hotel Room Revenue
+Standard Average Room Rate
+   Average Room Rate - Hotel With 100 Rooms And Less
+   Average Room Rate - Hotel With 101 - 299 Rooms
+   Average Room Rate - Hotel With 300 Or More Rooms
+Standard Average Hotel Occupancy Rate
+   Average Hotel Occupancy Rate - Hotel With 100 Rooms And Less
+   Average Hotel Occupancy Rate - Hotel With 101 - 299 Rooms
+   Average Hotel Occupancy Rate - Hotel With 300 Or More Rooms
+Gross Lettings (Room-Nights)
+Available Room-Nights
+
+
+Footnotes:
+Figures refer to gazetted hotels.
+Standard Average Room Rate (Dollar):
+Refers to total room revenue divided by gross lettings.
+Standard Average Hotel Occupancy Rate (Per Cent):
+Refers to gross lettings (room nights) divided by available room-nights.
+Gross Lettings (Room-Nights) (Number):
+February 1991: sharp decline due mainly to Gulf crisis.
+Available Room-Nights (Number):
+Refers to room-nights available for occupancy.  Excludes rooms closed for renovations and staff use as declared by the hotels in the statutory forms.
+
+Notation:
+na   not available or not applicable
+nec  not elsewhere classified
+nes  not elsewhere specified
+ -     nil or negligible or not significant
+Notes
+Numbers may not add up to the totals due to rounding.
+"Data are the latest available at the time of access or download. Some statistics, particularly those for the most recent time periods, are provisional and may be subject to revision at a later date."
+Values are shown in Singapore dollars (unless otherwise specified).
+
+Unit
+Hotel Room Revenue (Thousand Dollars)
+Standard Average Room Rate (Dollar)
+Standard Average Room Rate → Average Room Rate - Hotel With 100 Rooms And Less (Dollar)
+Standard Average Room Rate → Average Room Rate - Hotel With 101 - 299 Rooms (Dollar)
+Standard Average Room Rate → Average Room Rate - Hotel With 300 Or More Rooms (Dollar)
+Standard Average Hotel Occupancy Rate (Per Cent)
+Standard Average Hotel Occupancy Rate → Average Hotel Occupancy Rate - Hotel With 100 Rooms And Less (Per Cent)
+Standard Average Hotel Occupancy Rate → Average Hotel Occupancy Rate - Hotel With 101 - 299 Rooms (Per Cent)
+Standard Average Hotel Occupancy Rate → Average Hotel Occupancy Rate - Hotel With 300 Or More Rooms (Per Cent)
+Gross Lettings (Room-Nights) (Number)
+Available Room-Nights (Number)
+
+Source: SINGAPORE TOURISM BOARD
+URL to statistical table: https://tablebuilder.singstat.gov.sg/table/TS/M550081
+"Formats for download: XLSX, CSV, Tab Delimited"
+
+Condition of Use:
+http://www.singstat.gov.sg/terms-of-use
+https://data.gov.sg/privacy-and-website-terms#api-terms
+
+Data last updated: 02/01/2024
