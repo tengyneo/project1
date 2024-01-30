@@ -1,5 +1,5 @@
 <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
-# Impact of Adverse Weather Conditions on Singapore's Tourism Industry
+## Impact of Adverse Weather Conditions on Singapore's Tourism Industry
 This project is a part of General Assembly's Data Science Immersive (DSI) course requirements at [GA DSI](https://generalassemb.ly/education/data-science-immersive/singapore).  Other DSI projects can be found at the [main GitHub page](https://github.com/tengyneo).
 
 ## Project Intro/Objective
