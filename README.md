@@ -30,7 +30,7 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 - [<span style="background-color: light blue">outbounddeparturesingaporeresidents-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M650661): Outbound Departures Of Singapore Residents By Mode Of Transport
 - [<span style="background-color: light blue">internationalvisitorarrivals-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M550001): Total International Visitor Arrivals By Inbound Tourism Markets
 
-### Data Dictionary
+## Data Dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |**month**|*date*|All|Year month| 
@@ -63,4 +63,4 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 |Name     |  Slack Handle   | 
 |---------|-----------------|
 |[Neo Teng Yong](https://github.com/tengyneo)| @Teng Yong        |
-|[Kathleen]| @kathleen        |
+|[Kathleen](https://github.com/kathleenchang8/GA-DSI)| @kathleen        |
