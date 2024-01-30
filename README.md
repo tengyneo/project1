@@ -1,8 +1,6 @@
 # Impact of Adverse Weather Conditions on Singapore's Tourism Industry
 This project is a part of General Assembly's Data Science Immersive (DSI) course requirements at [GA DSI](https://generalassemb.ly/education/data-science-immersive/singapore).  Other DSI projects can be found at the [main GitHub page](https://github.com/tengyneo).
 
-#### -- Project Status: [Completed]
-
 ## Project Intro/Objective
 According to the latest [National Climate Change Study](https://www.channelnewsasia.com/singapore/sg-tourists-climate-change-heat-sea-level-rise-warmer-weather-ecotourism-green-4050806), Singapore will experience progressively hotter and wetter days. This may diminish the attractiveness of Singapore as a tourist destination. The purpose of this project is to assess the impact of adverse weather conditions on Singapore's tourism industry.
 
@@ -17,7 +15,7 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 * Jupyter Notebook
 
 ### Data Sources
-### Weather Datasets:
+#### Weather Datasets:
 - [<span style="background-color: light blue">RainfallMonthlyNumberofRainDays.csv</span>](https://beta.data.gov.sg/collections/1398/view): The number of rain days (day with rainfall amount of 0.2mm or more) in a month recorded at the Changi Climate Station
 - [<span style="background-color: light blue">RainfallMonthlyTotal.csv</span>](https://beta.data.gov.sg/collections/1399/view): The total monthly rainfall recorded at the Changi Climate Station
 - [<span style="background-color: light blue">RainfallMonthlyHighestDailyTotal.csv</span>](https://beta.data.gov.sg/collections/1397/view): The highest daily total rainfall for the month recorded at the Changi Climate Station
@@ -26,7 +24,7 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 - [<span style="background-color: light blue">WetBulbTemperatureHourly.csv</span>](https://beta.data.gov.sg/collections/1423/view): The hourly wet bulb temperature recorded at the Changi Climate Station
 - [<span style="background-color: light blue">RelativeHumidityMonthlyMean.csv</span>](https://beta.data.gov.sg/collections/1404/view): The monthly mean relative humidity recorded at the Changi Climate Station.
 
-### Tourism Datasets:
+#### Tourism Datasets:
 - [<span style="background-color: light blue">hotelstatistics-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M550081): Monthly hotel statistics on revenue and occupancy rate
 - [<span style="background-color: light blue">visitordays-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M550281): Number Of Visitor Days, (At End Of Period)
 - [<span style="background-color: light blue">outbounddeparturesingaporeresidents-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M650661): Outbound Departures Of Singapore Residents By Mode Of Transport
