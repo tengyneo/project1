@@ -16,9 +16,22 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 * Python (packages used include pandas, numpy, seaborn, matplotlib, datetime and calendar)
 * Jupyter Notebook
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+### Data Sources
+### Weather Datasets:
+- [<span style="background-color: light blue">RainfallMonthlyNumberofRainDays.csv</span>](https://beta.data.gov.sg/collections/1398/view): The number of rain days (day with rainfall amount of 0.2mm or more) in a month recorded at the Changi Climate Station
+- [<span style="background-color: light blue">RainfallMonthlyTotal.csv</span>](https://beta.data.gov.sg/collections/1399/view): The total monthly rainfall recorded at the Changi Climate Station
+- [<span style="background-color: light blue">RainfallMonthlyHighestDailyTotal.csv</span>](https://beta.data.gov.sg/collections/1397/view): The highest daily total rainfall for the month recorded at the Changi Climate Station
+- [<span style="background-color: light blue">SunshineDurationMonthlyMeanDailyDuration.csv</span>](https://beta.data.gov.sg/collections/1417/view): The monthly mean sunshine hours in a day recorded at the Changi Climate Station
+- [<span style="background-color: light blue">SurfaceAirTemperatureMonthlyMean.csv</span>](https://beta.data.gov.sg/collections/1419/view): The monthly mean air temperature recorded at the Changi Climate Station
+- [<span style="background-color: light blue">WetBulbTemperatureHourly.csv</span>](https://beta.data.gov.sg/collections/1423/view): The hourly wet bulb temperature recorded at the Changi Climate Station
+- [<span style="background-color: light blue">RelativeHumidityMonthlyMean.csv</span>](https://beta.data.gov.sg/collections/1404/view): The monthly mean relative humidity recorded at the Changi Climate Station.
 
+### Tourism Datasets:
+- [<span style="background-color: light blue">hotelstatistics-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M550081): Monthly hotel statistics on revenue and occupancy rate
+- [<span style="background-color: light blue">visitordays-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M550281): Number Of Visitor Days, (At End Of Period)
+- [<span style="background-color: light blue">outbounddeparturesingaporeresidents-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M650661): Outbound Departures Of Singapore Residents By Mode Of Transport
+- [<span style="background-color: light blue">internationalvisitorarrivals-table.csv</span>](https://tablebuilder.singstat.gov.sg/table/TS/M550001): Total International Visitor Arrivals By Inbound Tourism Markets
+  
 ## Featured Notebooks/Slides/Data
 * [Jupyter Notebook Report](https://github.com/tengyneo/project1/tree/main/notebook)
 * [Raw Data](https://github.com/tengyneo/project1/tree/main/data)
