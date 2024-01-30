@@ -1,5 +1,5 @@
 # Impact of Adverse Weather Conditions on Singapore's Tourism Industry
-This project is a part of General Assembly's Data Science Immersive (DSI) course requirements at [GA DSI](https://generalassemb.ly/education/data-science-immersive/singapore).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is a part of General Assembly's Data Science Immersive (DSI) course requirements at [GA DSI](https://generalassemb.ly/education/data-science-immersive/singapore).  Other DSI projects can be found at the [main GitHub page](https://github.com/tengyneo).
 
 #### -- Project Status: [Completed]
 
