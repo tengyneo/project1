@@ -7,8 +7,10 @@ This project is a part of General Assembly's Data Science Immersive (DSI) course
 According to the latest [National Climate Change Study](https://www.channelnewsasia.com/singapore/sg-tourists-climate-change-heat-sea-level-rise-warmer-weather-ecotourism-green-4050806), Singapore will experience progressively hotter and wetter days. This may diminish the attractiveness of Singapore as a tourist destination. The purpose of this project is to assess the impact of adverse weather conditions on Singapore's tourism industry.
 
 ### Methods Used
-* Data Visualization
+* Data Processing/Cleaning
+* Data Exploration
 * Descriptive Statistics
+* Data Visualization
   
 ### Technologies
 * Python (packages used include pandas, numpy, seaborn, matplotlib, datetime and calendar)
@@ -16,12 +18,6 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
-## Needs of this project
-
-- data exploration/descriptive statistics
-- data processing/cleaning
-- writeup/reporting/presentation
 
 ## Featured Notebooks/Slides/Data
 * [Jupyter Notebook Report](https://github.com/tengyneo/project1/tree/main/notebook)
