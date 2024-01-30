@@ -4,42 +4,24 @@ This project is a part of General Assembly's Data Science Immersive (DSI) course
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+According to the latest [National Climate Change Study](https://www.channelnewsasia.com/singapore/sg-tourists-climate-change-heat-sea-level-rise-warmer-weather-ecotourism-green-4050806), Singapore will experience progressively hotter and wetter days. This may diminish the attractiveness of Singapore as a tourist destination. The purpose of this project is to assess the impact of adverse weather conditions on Singapore's tourism industry.
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
 * Data Visualization
-* Predictive Modeling
-* etc.
-
+* Descriptive Statistics
+  
 ### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Python (packages used include pandas, numpy, seaborn, matplotlib, datetime and calendar)
+* Jupyter Notebook
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Needs of this project
 
-- frontend developers
 - data exploration/descriptive statistics
 - data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+- writeup/reporting/presentation
 
 ## Getting Started
 
