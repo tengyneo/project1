@@ -61,6 +61,7 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 ## Featured Notebooks/Slides/Data
 * [Jupyter Notebook Report](https://github.com/tengyneo/project1/tree/main/notebook)
 * [Raw Data](https://github.com/tengyneo/project1/tree/main/data)
+* [Slides](https://github.com/tengyneo/project1/tree/main/slides)
 
 ## Contact
 
