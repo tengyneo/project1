@@ -36,6 +36,8 @@ According to the latest [National Climate Change Study](https://www.channelnewsa
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |**month**|*date*|All|Year month| 
+|**month_only**|*object*|All|Month component of `'month'`|
+|**year_only**|*object*|All|Year component of `'month'`| 
 |**no_of_rainy_days**|*integer*|RainfallMonthlyNumberofRainDays|Number of rain days (day with rainfall amount of 0.2mm or more) in a month recorded at the Changi Climate Station|
 |**rainy_month**|*integer*|Derived|Binary indicator to determine if a specific month is rainy, computed by taking no_of_rainy_days and dividing by the total number of days for that month. Value is 1 if result is >= 0.5, else 0.|
 |**total_rainfall**|*float*|RainfallMonthlyTotal|Total monthly rainfall (in mm) recorded at the Changi Climate Station|
