@@ -4,7 +4,7 @@
 This project is a part of General Assembly's Data Science Immersive (DSI) course requirements at [GA DSI](https://generalassemb.ly/education/data-science-immersive/singapore).  Other DSI projects can be found at the [main GitHub page](https://github.com/tengyneo).
 
 ## Project Intro/Objective
-According to the latest [National Climate Change Study](https://www.channelnewsasia.com/singapore/sg-tourists-climate-change-heat-sea-level-rise-warmer-weather-ecotourism-green-4050806), Singapore will experience progressively hotter and wetter days. This may diminish the attractiveness of Singapore as a tourist destination. The purpose of this project is to assess the impact of adverse weather conditions on Singapore's tourism industry.
+According to the latest [National Climate Change Study](https://www.channelnewsasia.com/singapore/sg-tourists-climate-change-heat-sea-level-rise-warmer-weather-ecotourism-green-4050806), Singapore will experience progressively hotter and wetter days. This may diminish the attractiveness of Singapore as a tourist destination. The purpose of this project is to assess the impact of adverse weather conditions, specifically high rainfall and temperature, on Singapore's tourism industry.
 
 ### Methods Used
 * Data Processing/Cleaning
